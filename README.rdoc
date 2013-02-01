@@ -2,8 +2,11 @@
 
 Here are the laboratories for the Audio and Music Analysis subject for the masters {SMC}[http://www.upf.edu/smc/] from Pompeu Fabra University.
 
+== Reports
+
+* {Lab 2}[https://github.com/hector/ama/blob/master/lab2/report/lab2.pdf?raw=true]
+
 == Authors
 
 * {Jakue López }[mailto:oscarlabs@gmail.com]
 * {Hèctor Parra}[http://about.me/hector.parra]
-
