@@ -13,4 +13,4 @@ Here are the laboratories for the Audio and Music Analysis subject for the maste
 
 == License
 
-This code is released under the {MIT License}{http://www.opensource.org/licenses/MIT}.
+This code is released under the {MIT License}[http://www.opensource.org/licenses/MIT].
