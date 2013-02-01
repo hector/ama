@@ -1,6 +1,6 @@
 = Audio and Music Analysis
 
-Here are the laboratories for the Audio and Music Analysis subject for the masters {SMC}[http://www.upf.edu/smc/] from Pompeu Fabra University.
+Here are the laboratories for the Audio and Music Analysis subject for the master {SMC}[http://www.upf.edu/smc/] from Pompeu Fabra University.
 
 == Reports
 
@@ -8,5 +8,5 @@ Here are the laboratories for the Audio and Music Analysis subject for the maste
 
 == Authors
 
-* {Jakue López }[mailto:oscarlabs@gmail.com]
-* {Hèctor Parra}[http://about.me/hector.parra]
+* {Jakue López Armendáriz}[mailto:jakue89@gmail.com]
+* {Hèctor Parra}[http://hector.parra.cat]
