@@ -1,0 +1,10 @@
+start_marker_table
+00:00:00.0 Marker 00:00:00.084
+00:00:02.1 Marker 00:00:02.159
+00:00:04.5 Marker 00:00:04.556
+00:00:06.4 Marker 00:00:06.483
+00:00:07.0 Marker 00:00:07.091
+00:00:07.4 Marker 00:00:07.414
+00:00:07.7 Marker 00:00:07.719
+end_marker_table
+AUTHOR:	IUA  
