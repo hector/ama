@@ -1,0 +1,45 @@
+@prefix xsd:      <http://www.w3.org/2001/XMLSchema#> .
+@prefix vamp:     <http://purl.org/ontology/vamp/> .
+@prefix :         <#> .
+
+:transform a vamp:Transform ;
+    vamp:plugin <file:///Library/Audio/Plug-Ins/Vamp/vamp-hpcp-mtg#MTG-HPCP> ;
+    vamp:step_size "256"^^xsd:int ; 
+    vamp:block_size "4096"^^xsd:int ; 
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "HF" ] ;
+        vamp:value "5000"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "HarmonicsPerPeak" ] ;
+        vamp:value "8"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "LF" ] ;
+        vamp:value "50"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "nbins" ] ;
+        vamp:value "12"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "non_linear" ] ;
+        vamp:value "0"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "peakMagThreshold" ] ;
+        vamp:value "-100"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "reff0" ] ;
+        vamp:value "440"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "two_bands" ] ;
+        vamp:value "1"^^xsd:float ;
+    ] ;
+    vamp:parameter_binding [
+        vamp:parameter [ vamp:identifier "whitening" ] ;
+        vamp:value "1"^^xsd:float ;
+    ] ;
+    vamp:output <file:///Library/Audio/Plug-Ins/Vamp/vamp-hpcp-mtg#MTG-HPCP_output_HPCP> .

@@ -1,0 +1,254 @@
+{
+    "ellis": {
+        "composite": {
+            "hits": 45,
+            "percentage": 46.875
+        },
+        "diatonic": {
+            "hits": 35,
+            "percentage": 36.458333333333336
+        },
+        "ellis": {
+            "hits": 46,
+            "percentage": 47.916666666666664
+        },
+        "hpcp": {
+            "hits": 63,
+            "percentage": 65.625
+        },
+        "krumhansl": {
+            "hits": 24,
+            "percentage": 25.0
+        },
+        "temperley": {
+            "hits": 47,
+            "percentage": 48.958333333333336
+        },
+        "toolbox_cens": {
+            "hits": 71,
+            "percentage": 73.95833333333333
+        },
+        "toolbox_clp": {
+            "hits": 67,
+            "percentage": 69.79166666666667
+        },
+        "toolbox_cp": {
+            "hits": 71,
+            "percentage": 73.95833333333333
+        },
+        "toolbox_crp": {
+            "hits": 70,
+            "percentage": 72.91666666666667
+        }
+    },
+    "hpcp": {
+        "composite": {
+            "hits": 61,
+            "percentage": 63.541666666666664
+        },
+        "diatonic": {
+            "hits": 51,
+            "percentage": 53.125
+        },
+        "ellis": {
+            "hits": 43,
+            "percentage": 44.791666666666664
+        },
+        "hpcp": {
+            "hits": 71,
+            "percentage": 73.95833333333333
+        },
+        "krumhansl": {
+            "hits": 51,
+            "percentage": 53.125
+        },
+        "temperley": {
+            "hits": 69,
+            "percentage": 71.875
+        },
+        "toolbox_cens": {
+            "hits": 80,
+            "percentage": 83.33333333333333
+        },
+        "toolbox_clp": {
+            "hits": 67,
+            "percentage": 69.79166666666667
+        },
+        "toolbox_cp": {
+            "hits": 80,
+            "percentage": 83.33333333333333
+        },
+        "toolbox_crp": {
+            "hits": 69,
+            "percentage": 71.875
+        }
+    },
+    "toolbox_cens": {
+        "composite": {
+            "hits": 60,
+            "percentage": 62.5
+        },
+        "diatonic": {
+            "hits": 51,
+            "percentage": 53.125
+        },
+        "ellis": {
+            "hits": 43,
+            "percentage": 44.791666666666664
+        },
+        "hpcp": {
+            "hits": 73,
+            "percentage": 76.04166666666667
+        },
+        "krumhansl": {
+            "hits": 53,
+            "percentage": 55.208333333333336
+        },
+        "temperley": {
+            "hits": 64,
+            "percentage": 66.66666666666667
+        },
+        "toolbox_cens": {
+            "hits": 85,
+            "percentage": 88.54166666666667
+        },
+        "toolbox_clp": {
+            "hits": 74,
+            "percentage": 77.08333333333333
+        },
+        "toolbox_cp": {
+            "hits": 86,
+            "percentage": 89.58333333333333
+        },
+        "toolbox_crp": {
+            "hits": 78,
+            "percentage": 81.25
+        }
+    },
+    "toolbox_clp": {
+        "composite": {
+            "hits": 57,
+            "percentage": 59.375
+        },
+        "diatonic": {
+            "hits": 41,
+            "percentage": 42.708333333333336
+        },
+        "ellis": {
+            "hits": 46,
+            "percentage": 47.916666666666664
+        },
+        "hpcp": {
+            "hits": 68,
+            "percentage": 70.83333333333333
+        },
+        "krumhansl": {
+            "hits": 36,
+            "percentage": 37.5
+        },
+        "temperley": {
+            "hits": 57,
+            "percentage": 59.375
+        },
+        "toolbox_cens": {
+            "hits": 82,
+            "percentage": 85.41666666666667
+        },
+        "toolbox_clp": {
+            "hits": 68,
+            "percentage": 70.83333333333333
+        },
+        "toolbox_cp": {
+            "hits": 83,
+            "percentage": 86.45833333333333
+        },
+        "toolbox_crp": {
+            "hits": 77,
+            "percentage": 80.20833333333333
+        }
+    },
+    "toolbox_cp": {
+        "composite": {
+            "hits": 59,
+            "percentage": 61.458333333333336
+        },
+        "diatonic": {
+            "hits": 49,
+            "percentage": 51.041666666666664
+        },
+        "ellis": {
+            "hits": 44,
+            "percentage": 45.833333333333336
+        },
+        "hpcp": {
+            "hits": 73,
+            "percentage": 76.04166666666667
+        },
+        "krumhansl": {
+            "hits": 48,
+            "percentage": 50.0
+        },
+        "temperley": {
+            "hits": 63,
+            "percentage": 65.625
+        },
+        "toolbox_cens": {
+            "hits": 84,
+            "percentage": 87.5
+        },
+        "toolbox_clp": {
+            "hits": 72,
+            "percentage": 75.0
+        },
+        "toolbox_cp": {
+            "hits": 84,
+            "percentage": 87.5
+        },
+        "toolbox_crp": {
+            "hits": 76,
+            "percentage": 79.16666666666667
+        }
+    },
+    "toolbox_crp": {
+        "composite": {
+            "hits": 47,
+            "percentage": 48.958333333333336
+        },
+        "diatonic": {
+            "hits": 38,
+            "percentage": 39.583333333333336
+        },
+        "ellis": {
+            "hits": 45,
+            "percentage": 46.875
+        },
+        "hpcp": {
+            "hits": 62,
+            "percentage": 64.58333333333333
+        },
+        "krumhansl": {
+            "hits": 34,
+            "percentage": 35.416666666666664
+        },
+        "temperley": {
+            "hits": 50,
+            "percentage": 52.083333333333336
+        },
+        "toolbox_cens": {
+            "hits": 71,
+            "percentage": 73.95833333333333
+        },
+        "toolbox_clp": {
+            "hits": 78,
+            "percentage": 81.25
+        },
+        "toolbox_cp": {
+            "hits": 70,
+            "percentage": 72.91666666666667
+        },
+        "toolbox_crp": {
+            "hits": 77,
+            "percentage": 80.20833333333333
+        }
+    }
+}
