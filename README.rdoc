@@ -5,6 +5,7 @@ Here are the laboratories for the Audio and Music Analysis subject for the maste
 == Reports
 
 * {Lab 2}[https://github.com/hector/ama/blob/master/lab2/report/lab2.pdf?raw=true]
+* {Lab 2}[https://github.com/hector/ama/blob/master/lab3/report/lab3.pdf?raw=true]
 
 == Authors
 
